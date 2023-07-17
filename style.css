@@ -1,0 +1,9 @@
+table{
+    align-items: right;
+    background-color: blueviolet;
+    color: antiquewhite;
+    border-collapse: collapse;
+    font-size: 11;
+    font-weight: bold;
+    margin: auto;
+}
